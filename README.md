@@ -5,3 +5,8 @@
 
 ## Quickstart
 Run the exe to use the application.
+
+## Prerequisites
+To run the source code on your own machine you need to install:
+* Tkinter
+* pyperclip
