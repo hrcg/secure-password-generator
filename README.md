@@ -1,6 +1,6 @@
 # Secure Password Generator
 
-<img src="./assets/example_use.gif" width="250">
+<img src="./assets/example_use.gif" width="400">
 <hr>
 
 ## Quickstart
