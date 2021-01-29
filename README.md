@@ -12,7 +12,7 @@ To run the source code on your own machine you need:
 
 * **[Tkinter](https://docs.python.org/3/library/tkinter.html)**
 
-* **[pyperclip](https://pypi.org/project/PyQRCode/)**
+* **[pyperclip](https://pypi.org/project/pyperclip/)**
 ```
 pip install pyperclip
 ```
