@@ -6,7 +6,13 @@
 ## Quickstart
 Run the exe to use the application.
 
-## Prerequisites
-To run the source code on your own machine you need to install:
-* Tkinter
-* pyperclip
+## Requirements
+To run the source code on your own machine you need:
+* **[Python3](https://www.python.org/downloads/)**
+
+* **[Tkinter](https://docs.python.org/3/library/tkinter.html)**
+
+* **[pyperclip](https://pypi.org/project/PyQRCode/)**
+```
+pip install pyperclip
+```
